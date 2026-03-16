@@ -16,7 +16,7 @@ letter-spacing:1px;
 .nav-link{
 position:relative;
 margin-left:15px;
-}
+} 
 
 .nav-link::after{
 content:"";
